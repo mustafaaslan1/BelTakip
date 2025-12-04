@@ -1,0 +1,304 @@
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\bin\Debug\Staj.exe
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\bin\Debug\Staj.pdb
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.Properties.Resources.resources
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.csproj.GenerateResource.Cache
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.exe
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.pdb
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.Giris.resources
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.exe.licenses
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.Anaform.resources
+c:\users\faruk.keskin\documents\visual studio 2010\Projects\Staj\Staj\obj\Debug\Staj.kullanıcıkayıt.resources
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\obj\Debug\Staj.csprojResolveAssemblyReference.cache
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\obj\Debug\Staj.kullaniciprofili.resources
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\obj\Debug\Staj.sifredegis.resources
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\obj\Debug\Staj.profilguncelleme.resources
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\obj\Debug\Staj.arackayıt.resources
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\obj\Debug\Staj.rapor.resources
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\bin\Debug\Staj.exe.config
+C:\Users\faruk.keskin\Documents\Visual Studio 2010\Projects\Staj\Staj\obj\Debug\Staj.aracyakitfisi.resources
+C:\Users\Ahsen\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\Staj.exe.config
+C:\Users\Ahsen\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.exe
+C:\Users\Ahsen\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\Staj.exe.config
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.exe
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\Staj.exe
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.arackayıt.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.aracyakitfisi.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.kullaniciprofili.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.Anaform.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.Giris.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.kullanıcıkayıt.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.profilguncelleme.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.Properties.Resources.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.sifredegis.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.rapor.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.csproj.GenerateResource.Cache
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.exe.licenses
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.csprojResolveAssemblyReference.cache
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.personelkayit.resources
+C:\Users\mustafaaslan\Desktop\erzincan belediyesi staj\Staj\Staj\obj\Debug\Staj.personelrapor.resources
+C:\Users\mustafaaslan\Desktop\STAJ 2\Staj\Staj\bin\Debug\Staj.exe.config
+C:\Users\mustafaaslan\Desktop\STAJ 2\Staj\Staj\obj\Debug\Staj.exe
+C:\Users\mustafaaslan\Desktop\STAJ 2\Staj\Staj\obj\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\Staj.exe.config
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.exe
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\Staj.exe
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.csprojResolveAssemblyReference.cache
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.arackayıt.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.aracyakitfisi.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.personelkayit.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.personelrapor.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.kullaniciprofili.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.Anaform.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.Giris.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.kullanıcıkayıt.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.profilguncelleme.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.Properties.Resources.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.sifredegis.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.rapor.resources
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.csproj.GenerateResource.Cache
+C:\Users\mustafaaslan\Desktop\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.exe.licenses
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\Staj.exe.config
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.exe
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\Staj.exe
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\Staj.pdb
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.csprojResolveAssemblyReference.cache
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.arackayıt.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.aracyakitfisi.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.personelkayit.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.personelrapor.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.kullaniciprofili.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.Anaform.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.Giris.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.kullanıcıkayıt.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.profilguncelleme.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.Properties.Resources.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.sifredegis.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.rapor.resources
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.csproj.GenerateResource.Cache
+C:\Users\mustafaaslan\Desktop\Bilgisayar Mühendisliği\STAJ PROGRAM\Staj\Staj\obj\Debug\Staj.exe.licenses
